@@ -56,7 +56,7 @@ A real-time chat application that allows users to communicate instantly in a sec
       cd frontend
       npm start
 
-5. Open your browser and go to http://localhost:3000 to start chatting!
+5. Open your browser and go to http://localhost:3000 to start chatting! your localhost address can be different !
 
 
 
